@@ -1,0 +1,8 @@
+#galeria {
+    width: 35%;
+}
+
+#galeria img {
+    border: 1px solid #181818;
+    margin-right: 2px;
+}
